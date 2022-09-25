@@ -1,0 +1,18 @@
+【Firebase】
+Firebase:GoogleのmBaaS(mobile Backend as a service)
+アプリ開発のバックエンドを全体的に提供できる
+
+（リアルタイム同期型）
+端末側がリアルタイム時に同期
+不安定でも端末データを参照可能
+
+（管理保守が不要）
+機能：ユーザー認証・プッシュ通知・Cloud Storage
+
+【MLkit】
+Googleのモバイル対応の機械学習ツール
+
+（機能）
+VisionAPIs：顔検出物体検出・バーコード・文字認識
+NaturalLanguageAPI：言語の識別、翻訳、チャットボット
+独自モデル：AutoML Vision Edge　TensorFlowLiteとの連携
